@@ -6,3 +6,5 @@
 
 ## ——————传送门——————
 - [我的小窝](https://github.com/zju1229/Tsingsia229/tree/main)
+- [PTA](https://pintia.cn/home)
+- [学在浙大](https://courses.zju.edu.cn/user/index#/)
