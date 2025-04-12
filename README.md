@@ -7,4 +7,7 @@
 ## ——————传送门——————
 - [我的小窝](https://github.com/zju1229/Tsingsia229/tree/main)
 - [PTA](https://pintia.cn/home)
-- [学在浙大](https://courses.zju.edu.cn/user/index#/)
+- [洛谷](https://www.luogu.com.cn/)
+
+## ——————联系方式——————
+- 邮箱:3240101229@zju.edu.cn
