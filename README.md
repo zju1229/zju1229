@@ -8,7 +8,7 @@
 - [我的小窝](https://github.com/zju1229/Tsingsia229/tree/main) ->仅限本人使用~
 - [PTA](https://pintia.cn/home)
 - [洛谷](https://www.luogu.com.cn/)
-- [Github_Gate](https://github.com/zju1229/Tsingsia229_OUTPUT?tab=readme-ov-file#gate)
+- [Github_Gate](https://github.com/zju1229/Tsingsia229_OUTPUT/blob/main/README.md#gate)
 
 ## ——————联系方式——————
 > 邮箱:3240101229@zju.edu.cn
