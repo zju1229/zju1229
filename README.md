@@ -1,8 +1,8 @@
-Hello world!  
-Hello github!  
+$`\textcolor{green}{\text{Hello world!}}`$   
+$`\textcolor{green}{\text{Hello github!}}`$  
 # Hi~ 屏幕前的小伙伴们
 ## ✨ 欢迎来到我的个人主页~ ✨  
-这个作者很懒，什么也没留下~  
+$`\textcolor{orange}{\text{这个作者很懒}}`$ ，什么也没留下~  
 
 ## ——————☆★传送门★☆——————
 - [我的小窝**cs**](https://github.com/zju1229/Tsingsia229/tree/main) [我的小窝**math**](https://github.com/zju1229/Tsingsia516)->仅限本人使用~
