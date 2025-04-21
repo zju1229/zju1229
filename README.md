@@ -12,4 +12,4 @@ $`\textcolor{orange}{\text{这个作者很懒}}`$ ，什么也没留下~
 - [学在浙大](https://courses.zju.edu.cn/user/index#/)
 
 ## ——————联系方式——————
-> 邮箱:3240101229@zju.edu.cn
+> $`\textcolor{blue}{\text{邮箱}}`$:3240101229@zju.edu.cn
