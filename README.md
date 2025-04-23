@@ -1,7 +1,7 @@
 $`\textcolor{green}{\text{Hello world!}}`$   
 $`\textcolor{green}{\text{Hello github!}}`$  
 # Hi~ $`\textcolor{#8edd33}{\text{屏幕前的小伙伴们}}`$
-## ✨ 欢迎来到我的个人主页~ ✨  
+## ✨ 欢迎来到我的个人主页 ![Static Badge](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-zju1229-cc99ff) ~ ✨  
 $`\textcolor{orange}{\text{这个作者很懒}}`$ ，什么也没留下~  
 - [x] **数学分析**$`\textcolor{#58cc12}{\text{满绩}}`$
 - [x] **线性代数**$`\textcolor{#58cc12}{\text{满绩}}`$
@@ -17,7 +17,7 @@ $`\textcolor{orange}{\text{这个作者很懒}}`$ ，什么也没留下~
 
 - [ $`\textcolor{#2040ee}{\text{PTA}}`$ ](https://pintia.cn/home)
 - [ $`\textcolor{#2040ee}{\text{洛谷}}`$ ](https://www.luogu.com.cn/)
-- [ $`\textcolor{#a8cf36}{\text{Github Gate}}`$ ](https://github.com/zju1229/Tsingsia229_OUTPUT/blob/main/README.md#gate)
+- [ $`\textcolor{#a8cf36}{\text{Github Gate}}`$ ](https://github.com/zju1229/Tsingsia229_OUTPUT/blob/main/README.md#gate) [![Static Badge](https://img.shields.io/badge/%E9%97%A8%E6%88%B7%E4%BB%93%E5%BA%93-TsingsiaOutput-a8cf36)](https://github.com/zju1229/Tsingsia229_OUTPUT)
 - [ $`\textcolor{#6060ee}{\text{学在浙大}}`$ ](https://courses.zju.edu.cn/user/index#/)
 
 ##  $`\textcolor{#40cc48}{\text{——————}}`$$`\textcolor{#25e35c}{\text{联系方式}}`$$`\textcolor{#40cc48}{\text{——————}}`$
