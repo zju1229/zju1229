@@ -12,8 +12,8 @@ $`\textcolor{orange}{\text{这个作者很懒，什么也没留下}\sim}`$
 
 ## $`\textcolor{#afafee}{\text{——————}}`$$`\textcolor{#cc99ff}{\text{☆★传送门★☆}}`$$`\textcolor{#afafee}{\text{——————}}`$
 - $`\textcolor{#ee4800}{\text{->仅限本人使用}\sim}`$   
-[$`\textcolor{#ee4800}{\text{我的小窝}}`$**cs**](https://github.com/zju1229/Tsingsia229/tree/main)  [![Static Badge](https://img.shields.io/badge/%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93-Tsingsia229-6699ff)](https://github.com/zju1229/Tsingsia229)  
-[$`\textcolor{#ee4800}{\text{我的小窝}}`$**math**](https://github.com/zju1229/Tsingsia516) [![Static Badge](https://img.shields.io/badge/%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93-Tsingsia516-58cc12)](https://github.com/zju1229/Tsingsia516)
+[$`\textcolor{#ee4800}{\text{229仓库}}`$**cs**](https://github.com/zju1229/Tsingsia229/tree/main)  [![Static Badge](https://img.shields.io/badge/%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93-Tsingsia229-6699ff)](https://github.com/zju1229/Tsingsia229)  
+[$`\textcolor{#ee4800}{\text{516仓库}}`$**math**](https://github.com/zju1229/Tsingsia516) [![Static Badge](https://img.shields.io/badge/%E7%A7%81%E6%9C%89%E4%BB%93%E5%BA%93-Tsingsia516-58cc12)](https://github.com/zju1229/Tsingsia516)
 
 - [ $`\textcolor{#2040ee}{\text{PTA}}`$ ](https://pintia.cn/home)
 - [ $`\textcolor{#2040ee}{\text{洛谷}}`$ ](https://www.luogu.com.cn/)
